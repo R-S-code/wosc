@@ -1,0 +1,207 @@
+body {
+  color: #5c5b5b;
+  font-size: 10px;
+}
+
+.header_one {
+  display: flex;
+  align-items: center;
+  height: 48px;
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 34px;
+}
+
+.store_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px #dedede;
+  height: 20px;
+  width: 180px;
+  margin-left: 8px;
+}
+
+.login_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px #dedede;
+  height: 20px;
+  width: 60px;
+  margin-left: 480px;
+}
+
+.subscribe_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px #dedede;
+  height: 20px;
+  width: 60px;
+  margin-left: 50px;
+  margin-right: 24px;
+}
+
+.header_ico {
+  margin-left: 44px;
+}
+
+.header_two {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 160px;
+  width: 1100px;
+  margin: 0 auto;
+  height: 48px;
+}
+
+.hr {
+  color: #dedede;
+}
+
+.shosai_column {
+  width: 1100px;
+  margin: 100px auto 0;
+  display: flex;
+}
+
+.shosai_pic img {
+  width: 520px;
+  margin-right: 60px;
+}
+
+.shosai_title {
+  font-size: 18px;
+  margin-bottom: 22px;
+}
+
+.price {
+  font-size: 16px;
+}
+
+.shosai_info {
+  display: flex;
+  margin-top: 60px;
+  font-size: 16px;
+}
+
+.frame {
+  border: solid 1px #dedede;
+  height: 24px;
+  width: 240px;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  padding: 8px;
+}
+
+.shohin_exp_title {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 64px 0;
+}
+
+.shohin_exp {
+  font-size: 14px;
+  line-height: 48px;
+}
+
+.shohin_det_title {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 240px 0 0;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #dedede;
+  margin-top: 40px;
+  margin-bottom: 120px;
+}
+
+.shohin_det {
+  border-color: #dedede;
+}
+
+td {
+  padding: 5px 16px;
+}
+
+.t {
+  text-align: center;
+}
+
+.shohin_det_content {
+  width: 240px;
+}
+
+.pankuzu {
+  margin: 60px auto 0;
+  font-size: 16px;
+  color: #c7c7c7;
+  width: 1200px;
+}
+
+.pankuzu li {
+  display: inline-block;
+}
+
+.recomend {
+  width: 1100px;
+  margin: 0 auto 120px;
+}
+
+.recomend_title {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 80px;
+}
+
+.recomend_pic {
+  display: flex;
+  justify-content: space-between;
+}
+
+.recomend_pic img {
+  width: 161px;
+  height: 195px;
+}
+
+.recomend_pic p {
+  text-align: center;
+  margin: 18px;
+}
+
+.new_column_content {
+  border: solid 1px #dedede;
+  width: 164px;
+}
+
+.footer {
+  display: flex;
+  width: 1100px;
+  margin: 32px auto;
+}
+
+.footer li {
+  margin: 24px;
+}
+
+.footer_guide_f {
+  font-weight: bold;
+}
+
+.footer_two {
+  margin-left: 40px;
+}
+
+.copyright {
+  text-align: center;
+  margin: 24px 0;
+}
